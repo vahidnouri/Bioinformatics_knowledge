@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # The process of analyzing the raw genomics data
 
+=======
+**The process of analyzing the raw genomics data**\
+>>>>>>> master
 The general process of finding a pattern in a genomics data illustrate as follow in seven steps.
 
 1. Before assembling the sequence, the quality of data should be controlled in two following steps. To qualify the data, FASTQ format, which is a text-format for storing biological sequence information as well as quality scores, applies to the FASTQC program to generate a graphical report. An ASCII code encodes the quality score of data. In this format which has four lines commonly, fourth line indicates the quality of the sequence that illustrated in the second line of FASTQ format. FASTQC imports data from different formats including SAM, BAM and FASTQ and provides a QC report via graphs together with tables to evaluate the input data. Finally, an HTML file exports the results.
