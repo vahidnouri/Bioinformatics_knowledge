@@ -1,1 +1,1 @@
-This repository studies some subjects of bioinformatics.
+This repository studies some subjects of bioinformatics including high throughput technologies in bioinformatics and modelling cellular systems.
